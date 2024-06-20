@@ -1,0 +1,28 @@
+D:\C Sharp Exercises\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe.config
+D:\C Sharp Exercises\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe
+D:\C Sharp Exercises\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.pdb
+D:\C Sharp Exercises\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csprojAssemblyReference.cache
+D:\C Sharp Exercises\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csproj.CoreCompileInputs.cache
+D:\C Sharp Exercises\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.exe
+D:\C Sharp Exercises\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.pdb
+D:\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe.config
+D:\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe
+D:\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.pdb
+D:\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csprojAssemblyReference.cache
+D:\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.exe
+D:\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.pdb
+F:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe.config
+F:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe
+F:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.pdb
+F:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csprojAssemblyReference.cache
+F:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csproj.CoreCompileInputs.cache
+F:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.exe
+F:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.pdb
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe.config
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.exe
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\bin\Debug\CelsiusToKelvinAndFahrenheit.pdb
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csproj.CoreCompileInputs.cache
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.exe
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.pdb
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csproj.AssemblyReference.cache
+G:\My work\C Sharp\Convert_Degrees\CelsiusToKelvinAndFahrenheit\obj\Debug\CelsiusToKelvinAndFahrenheit.csproj.SuggestedBindingRedirects.cache
